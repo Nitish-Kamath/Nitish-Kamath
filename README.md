@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitish-Kamath
+- 👋 Hey There!! This is Nitish Here :)
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
