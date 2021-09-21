@@ -1,7 +1,7 @@
 - 👋 Hey There!! This is Nitish Here :)
 - 👀 I’m interested in learning new stuffs
-- 🌱 I’m currently learning web development
-- 📫 How to reach me u can contact on  nitishkamath63590@gmail.com
+- 🌱 I’m currently learning Android development
+- 📫 You can contact on  nitishkamath63590@gmail.com
 
 <!---
 Nitish-Kamath/Nitish-Kamath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
