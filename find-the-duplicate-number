@@ -1,0 +1,42 @@
+https://leetcode.com/problems/find-the-duplicate-number/
+
+
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+
+        for(auto x : nums)
+        {
+            int idx = abs(x);
+            if(nums[idx] < 0)
+            return idx;
+            nums[idx] = -nums[idx];
+        }
+        return -1;
+        
+    }
+};
+
+/*
+
+this is very easy problem statement:
+
+solution01:
+using sort 
+
+solution02:
+using map [extra space]
+
+solution03:
+using map[using array as map ]
+
+it is given that size is of length let n + 1
+then value may be 1 to n 
+may be only n repeats n +1 times 
+
+
+
+
+
+
+*/
