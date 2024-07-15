@@ -1,5 +1,5 @@
-- 👋 Hey There!! This is Nitish Here :)
-- 👀 I’m interested in learning new stuff.
+- 👋 Hey There!! This is Nitish Kumar Here.
+- 👀 Solved more than 1k+ question on leetCode.
 - 🌱 I’m currently doing MERN Development.
 - 📫 You can contact me at nitishkamath63590@gmail.com/8789102621
 
